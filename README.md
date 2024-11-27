@@ -2,8 +2,8 @@
 Projet d'amplificateur audio avec ajustement d'EQ
 
 
-Ressources et liens utiles:
-Speaker crossover:
+Ressources et liens utiles:  
+Speaker crossover:  
 https://blog.teufelaudio.com/what-is-a-speaker-crossover/  
 How to design audio amplifier:  
 https://www.circuitbasics.com/design-hi-fi-audio-amplifier-lm3886/#Things-to-Decide-Before-Starting  
